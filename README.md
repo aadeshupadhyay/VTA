@@ -1,1 +1,3 @@
-# virtualTA
+# VTA
+
+This intelligent teaching assistant uses Large Language Models and Retrieval-Augmented Generation to provide contextual student support while maintaining academic integrity. The system features an intent classification framework that categorizes student queries into educational contexts, a document processing pipeline for lectures, homework, and syllabus materials, and smart response generation that refuses to solve homework directly while providing guidance. Built with FAISS vector database for semantic search across course materials, a real-time chat interface using Streamlit, and comprehensive evaluation framework with automated assessment metrics. The system uses local LLM deployment via Ollama (Gemma2, Llama3.1) for data privacy and demonstrates sophisticated prompt engineering principles to ensure students receive appropriate guidance without compromising learning objectives.
